@@ -1,0 +1,17 @@
+.mybutton {
+  background-color: white;
+  border: 2px solid #4d94ff;
+  color: black;
+  padding: 10px 32px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 18px;
+  width:150px;
+  transition-duration: 0.3s;
+}
+
+.mybutton:hover {
+	background-color: #4d94ff;
+	color: white;
+}
